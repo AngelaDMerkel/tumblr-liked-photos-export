@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'httparty'
+require 'json'
 
 # Configuration
 api_key      = ENV["TUMBLR_API_KEY"]
